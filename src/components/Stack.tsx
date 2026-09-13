@@ -5,7 +5,7 @@ interface StackProps {
   onRemove: (id: string) => void;
   onRemoveAll: () => void;
 }
-
+//fkdljfak
 function Stack({ stack, onRemove, onRemoveAll }: StackProps) {
   return (
     <aside className="stack">
