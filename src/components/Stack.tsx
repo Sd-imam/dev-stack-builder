@@ -1,5 +1,5 @@
 import type { Technology } from "../types/technology";
-
+//
 interface StackProps {
   stack: Technology[];
   onRemove: (id: string) => void;
@@ -9,7 +9,7 @@ interface StackProps {
 function Stack({ stack, onRemove, onRemoveAll }: StackProps) {
   return (
     <aside className="stack">
-
+//
       <div className="stack-header">
         <div>
           <h2>Your Stack</h2>
