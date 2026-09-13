@@ -12,7 +12,7 @@ function Navbar() {
       <div className="navbar-container">
 
         <a href="#home" className="brand" onClick={closeMenu}>
-          <span className="brand-icon">DS</span>
+            <span className="brand-icon">DS</span>
           <span className="brand-text">
             Dev <span>Stack</span>
              </span>
