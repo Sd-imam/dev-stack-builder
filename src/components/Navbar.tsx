@@ -15,7 +15,7 @@ function Navbar() {
           <span className="brand-icon">DS</span>
           <span className="brand-text">
             Dev <span>Stack</span>
-          </span>
+             </span>
         </a>
 
         <button
