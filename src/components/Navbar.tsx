@@ -6,7 +6,7 @@ function Navbar() {
   const closeMenu = () => {
     setMenuOpen(false);
   };
-
+//hjg
   return (
     <header className="navbar">
       <div className="navbar-container">
